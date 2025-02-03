@@ -1,3 +1,9 @@
 gradio
-python-dotenv
 google-generativeai
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
